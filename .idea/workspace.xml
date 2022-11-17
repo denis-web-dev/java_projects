@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dbfe0ac-3560-4dcd-ab6c-6ea437cb9391" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task_1293.java" afterDir="false" />
+    <list default="true" id="8dbfe0ac-3560-4dcd-ab6c-6ea437cb9391" name="Changes" comment="task_2100">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +60,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668601597186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feature/task1293">
+      <created>1668608389766</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668608389766</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <created>1668608425425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668608425425</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task_2100">
+      <created>1668612418145</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668612418145</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +98,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="feature/task1293" />
+    <MESSAGE value="add" />
+    <MESSAGE value="task_2100" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_2100" />
   </component>
 </project>
