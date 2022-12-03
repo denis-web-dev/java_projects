@@ -20,7 +20,7 @@ public class Example15 {
 
         System.out.println("Сумма двух чисел: " + sum + "," + " разность двух чисел: " + diff);
 
-
+        in.close();
 
     }
 }
