@@ -15,11 +15,9 @@ public class Example6 {
         System.out.println("Введите отчество: ");
         String middlename = in.nextLine();
 
-        System.out.println("Привет!:");
+        System.out.println("Привет " + firstname + " " + name + " " + middlename);
 
-        System.out.println("Фамилия: " + firstname);
-        System.out.println("Имя: " + name);
-        System.out.println("Отчество: " + middlename);
+
         in.close();
 
     }
