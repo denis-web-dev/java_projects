@@ -14,7 +14,7 @@ public class Example15 {
         int y = in.nextInt();
 
         int sum = x + y;
-        int diff = x -y;
+        int diff = x - y;
 
 
 
