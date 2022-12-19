@@ -11,12 +11,14 @@ public class Example4 {
         int y = in.nextInt();
 
 //        if (x < y){
-//            for (int x; x <= y; x++){
-//                System.out.println(x + " ");
+//            for (int i = x; i <= y;){
+//                System.out.println(i + " ");
+//                i++;
 //            }
 //        }else {
-//            for (int y; y <= x; y++){
-//                System.out.println(y + " ");
+//            for (int i = y; i <= x;){
+//                System.out.println(i + " ");
+//                 i++;
 //            }
 //        }
 
