@@ -34,6 +34,7 @@ public class Example2 {
 //                System.out.println("Такого дня не существует");
 //        }
 
+//        Версия программы на основе вложенных условных операторов:
 
         if (Objects.equals(num, "Понедельник")){
             System.out.println("1");
@@ -53,7 +54,7 @@ public class Example2 {
         else if (Objects.equals(num, "Суббота")){
         System.out.println("6");
         }
-        else if (Objects.equals(num, "Воскресенье")) {
+        else if (Objects.equals(num,  "Воскресенье")) {
         System.out.println("7");
         }
         else {
