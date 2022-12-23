@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dbfe0ac-3560-4dcd-ab6c-6ea437cb9391" name="Changes" comment="initial commit lr3">
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example9.java" afterDir="false" />
+    <list default="true" id="8dbfe0ac-3560-4dcd-ab6c-6ea437cb9391" name="Changes" comment="initial commit lr3 = Example10">
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr3/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,20 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/java_projects&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example10">
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr4.Example1" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr3.Example10" />
       <module name="java_projects" />
@@ -61,19 +71,6 @@
     </configuration>
     <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr3.Example6" />
-      <module name="java_projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example7" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Example10" />
         <item itemvalue="Application.Example9" />
         <item itemvalue="Application.Example6" />
         <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example7" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671655473529</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="initial commit lr3 = Example10">
+      <created>1671828471663</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1671828471663</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,6 +372,7 @@
     <MESSAGE value="task_2100" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="initial commit lr3" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit lr3" />
+    <MESSAGE value="initial commit lr3 = Example10" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit lr3 = Example10" />
   </component>
 </project>
