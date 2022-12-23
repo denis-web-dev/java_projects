@@ -19,8 +19,7 @@ public class Example6 {
                 while (iterator){
                     num = random.nextInt(100);
                     if (num % 5 == 2) {
-
-                        iterator = false;
+                        break;
                     }
                 }
                 arr[i] = num;
@@ -28,7 +27,6 @@ public class Example6 {
             System.out.println(Arrays.toString(arr));
         } else
             System.out.println("Введено не корректное значение");
-//
 
     }
 }
