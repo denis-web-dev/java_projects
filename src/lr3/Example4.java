@@ -34,7 +34,6 @@ public class Example4 {
 //                y++;
 //            }
 //            while (y <= x);
-//
 //        }
         if(x < y){
         while (x <= y){

@@ -24,13 +24,11 @@ public class Example10 {
                     num = arr[j];
                     arr[j] = arr[k];
                     arr[k] = num;
-
                 }
             }
         }
         for (int j = 0; j < arr.length; j++){
             System.out.print(arr[j] + " ");
         }
-
     }
 }

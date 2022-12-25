@@ -17,24 +17,27 @@ public class Example5 {
 
 //        Цикл for
 
-//        for (int i = 0; i < x; i++){
-//            int y = (int) Math.round(Math.random()*10);
-//            if ((y % 5 == 2) || (y % 3 == 1)){
+//        for (int i = 0; i < x; i++) {
+//            int y = (int) Math.round(Math.random() * 10);
+//            if ((y % 5 == 2) || (y % 3 == 1)) {
 //                System.out.println(y);
 //                sum = sum + y;
 //            }
 //        }
+//        System.out.println("Сумма " + sum);
 
 //       Цикл while
 
 //        int i = 0;
-//        while (i < x){
-//            int y = (int) Math.round(Math.random()*10);
-//            if ((y % 5 == 2) || (y % 3 == 1)){
+//        while (i < x) {
+//            int y = (int) Math.round(Math.random() * 10);
+//            if ((y % 5 == 2) || (y % 3 == 1)) {
 //                System.out.println(y);
 //                sum = sum + y;
-//            i++;
-//        }
+//                i++;
+//            }
+//    }
+//        System.out.println("Сумма " + sum);
 
 //        Цикл do while
 
@@ -49,6 +52,6 @@ public class Example5 {
             }
         }
             while (i < x) ;
-        System.out.println("Сумма " + sum);
+            System.out.println("Сумма " + sum);
         }
     }
