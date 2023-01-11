@@ -27,6 +27,5 @@ public class Example6 {
             System.out.println(Arrays.toString(arr));
         } else
             System.out.println("Введено не корректное значение");
-
     }
 }

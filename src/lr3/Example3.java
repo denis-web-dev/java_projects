@@ -21,7 +21,6 @@ public class Example3 {
 //            num1 = num2;
 //        }
 
-
 //        Цикл do
 
 //        int i = 3;
@@ -33,7 +32,6 @@ public class Example3 {
 //            i++;
 //        }
 //        while (i <= x);
-
 
         //        Цикл while
 
@@ -47,6 +45,5 @@ public class Example3 {
             }
 
         System.out.println();
-
     }
 }
