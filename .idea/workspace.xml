@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dbfe0ac-3560-4dcd-ab6c-6ea437cb9391" name="Changes" comment="initial commit lr6">
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example1/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example1/SubClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example1/SuperClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example2/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example2/SuperClassTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example3/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example3/SuperClassTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example4/BaseClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example4/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example5/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example5/SuperClassTest5.java" afterDir="false" />
+    <list default="true" id="8dbfe0ac-3560-4dcd-ab6c-6ea437cb9391" name="Changes" comment="initial commit lr7">
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -417,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673472745776</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="initial commit lr7">
+      <created>1673555294555</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1673555294555</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,6 +446,7 @@
     <MESSAGE value="initial commit lr4" />
     <MESSAGE value="initial commit lr5" />
     <MESSAGE value="initial commit lr6" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit lr6" />
+    <MESSAGE value="initial commit lr7" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit lr7" />
   </component>
 </project>
