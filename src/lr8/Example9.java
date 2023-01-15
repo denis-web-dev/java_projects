@@ -25,7 +25,7 @@ public class Example9 {
                 bw.newLine(); // принудительный переход на новую строку
             }
         } catch (IOException e) {
-            System.out.println("Ошибка!!!!!!!!" + e);
+            System.out.println("Ошибка!" + e);
         } finally {
             if (br != null) {
                 br.close();

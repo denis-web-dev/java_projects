@@ -1,6 +1,6 @@
 package lr7.Example4;
 
-public class BaseClass2 {
+class BaseClass2 implements Cloneable {
     public char character;
 
     public BaseClass2(char character) {

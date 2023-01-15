@@ -22,7 +22,7 @@ public class Example2 {
 
     public static void main(String[] args) {
         try {
-            InputStream inFile = new FileInputStream("/tmp/text.txt");
+            InputStream inFile = new FileInputStream("c:/tmp/text.txt");
             readAllByByte(inFile);
             System.out.print("\n\n\n");
 

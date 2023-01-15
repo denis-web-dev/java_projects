@@ -12,7 +12,7 @@ public class Example3 {
         while (true) {
             int count = in.read(buff);
             if (count != -1) {
-                System.out.println("komH4ectao = " + count + ", buff="
+                System.out.println("количество = " + count + ", buff="
                         + Arrays.toString(buff) + ", str ="
                         + new String(buff, 0, count, StandardCharsets.UTF_8)); //"UTF8"
             } else {

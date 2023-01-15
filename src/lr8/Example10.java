@@ -21,7 +21,7 @@ public class Example10 {
                 out.println(lineCount + ": " + s);
             }
         } catch (IOException e) {
-            System.out.println("Ошибка !!!!!!!!");
+            System.out.println("Ошибка!");
         } finally {
             if (br != null) {
                 br.close();

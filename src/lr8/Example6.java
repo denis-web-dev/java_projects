@@ -18,7 +18,7 @@ public class Example6 {
                 System.out.print((char) oneByte);
             }
         } catch (IOException e) {
-            System.out.println("Ошибка!!!! ");
+            System.out.println("Ошибка! ");
         } finally {
             if (in != null) {
                 in.close();

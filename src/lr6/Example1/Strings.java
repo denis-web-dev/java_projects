@@ -24,5 +24,4 @@ public class Strings {
             System.out.println("Метод с несколькими элементами массива: " + str);
         }
     }
-
 }

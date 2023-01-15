@@ -7,5 +7,4 @@ public class Number {
         System.out.println("Значение: " + num);
         num++;
     }
-
 }
