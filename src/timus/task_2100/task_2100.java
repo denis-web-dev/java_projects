@@ -7,13 +7,9 @@ import java.io.InputStreamReader;
 
 public class task_2100 {
     public static void main(String[] args) {
-
         String inputFileName = "src/timus/task_2100/input.txt";
-
         boolean oj = System.getProperty("ONLINE_JUDGE") != null;
         int marshalAndLilly = 2;
-
-
         try {
             BufferedReader bufferedReader =
                     oj ? new BufferedReader(new InputStreamReader(System.in)):
@@ -33,17 +29,14 @@ public class task_2100 {
                     numberOfPairs++;
                 }
             }
-
             int result;
-
             int guests = (marshalAndLilly + numberOfFriends + numberOfPairs);
-
             if (guests == 13){
                 result = (guests * 100) +100;
             }else {
                 result = guests * 100;
             }
-
+            System.out.println("Стоимость обедов, $: ");
             System.out.println(result);
         } catch (IOException exception) {
             exception.printStackTrace();
