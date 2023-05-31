@@ -4,24 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dbfe0ac-3560-4dcd-ab6c-6ea437cb9391" name="Changes" comment="initial commit lr9-1">
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Example9.java" afterDir="false" />
+    <list default="true" id="8dbfe0ac-3560-4dcd-ab6c-6ea437cb9391" name="Changes" comment="initial commit lr9">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_1/BookSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_1/CreateXMLFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_1/DeleteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_1/NewBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_1/XmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_1/exemple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_2/BookSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_2/DeleteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_2/JsonCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_2/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_2/NewBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_2/exemple-json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_2/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_3/LinkParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_3/NewParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_3/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_4/ReadExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10_4/WriteExcelFileExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_projects.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,28 +59,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/java_projects&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/java_projects/src/lr10_2/json-simple-1.1.1.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Example2_3">
-    <configuration name="Example2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Example2_2" />
+}]]></component>
+  <component name="RunManager" selected="Application.WriteExcelFileExample">
+    <configuration name="LinkParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10_3.LinkParser" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.*" />
+          <option name="PATTERN" value="lr10_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Example2_3" />
+    <configuration name="NewParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10_3.NewParser" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.*" />
+          <option name="PATTERN" value="lr10_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Example4" />
+    <configuration name="ReadExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10_4.ReadExcelFileExample" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.*" />
+          <option name="PATTERN" value="lr10_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Example5" />
+    <configuration name="WriteExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10_4.WriteExcelFileExample" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.*" />
+          <option name="PATTERN" value="lr10_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Example8" />
+    <configuration name="lr10_2.DeleteBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10_2.DeleteBook" />
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.*" />
+          <option name="PATTERN" value="lr10_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example2_3" />
-        <item itemvalue="Application.Example2_2" />
-        <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.WriteExcelFileExample" />
+        <item itemvalue="Application.ReadExcelFileExample" />
+        <item itemvalue="Application.LinkParser" />
+        <item itemvalue="Application.NewParser" />
+        <item itemvalue="Application.lr10_2.DeleteBook" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +170,8 @@
       <workItem from="1677952669932" duration="2366000" />
       <workItem from="1678003612162" duration="378000" />
       <workItem from="1678038745792" duration="390000" />
-      <workItem from="1678049888835" duration="829000" />
+      <workItem from="1678049888835" duration="1155000" />
+      <workItem from="1678189661196" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1668601129928</created>
@@ -473,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677919883927</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="initial commit lr9">
+      <created>1678051036745</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1678051036745</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +529,8 @@
     <MESSAGE value="initial commit lr8" />
     <MESSAGE value="initial commit timus" />
     <MESSAGE value="initial commit lr9-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit lr9-1" />
+    <MESSAGE value="initial commit lr9" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit lr9" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
